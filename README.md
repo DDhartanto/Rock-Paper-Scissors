@@ -14,7 +14,7 @@ Here is an example of a user playing rock paper scissors
 ## Usage 🚀
 ### 1. Clone the Repository
 ```
-https://github.com/DDhartanto/Password-Generator.git
+https://github.com/DDhartanto/Rock-Paper-Scissors.git
 ```
 ### 2. Use through Replit
 If you don't want to download this or setup python, you can run this project directly from your browser with [repl.it](https://replit.com/@dylandhartanto4/Rock-Paper-Scissors-Game#main.py)
